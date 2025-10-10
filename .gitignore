@@ -1,0 +1,12 @@
+# Ignore build files
+*.o
+*.elf
+*.bin
+*.hex
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore script artifacts
+*.log
