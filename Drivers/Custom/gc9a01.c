@@ -1,1 +1,0 @@
-// GC9A01 LCD driver implementation

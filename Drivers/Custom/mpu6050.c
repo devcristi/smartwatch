@@ -1,1 +1,0 @@
-// MPU6050 motion sensor driver implementation

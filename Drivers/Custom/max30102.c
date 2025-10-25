@@ -1,1 +1,0 @@
-// MAX30102 heart rate sensor driver implementation
